@@ -1,2 +1,2 @@
 # api_python_scripts
-Optional pyton scripts for api data retrieval
+Опциональные скрипты на python, где выполняется получение данных по API и использование их далее по назначению.
